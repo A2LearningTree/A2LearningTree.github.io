@@ -57,7 +57,35 @@ html  {
     background-color:#c41010;
     border-radius:18px;
     padding:10px;
-    color:white;
+    color:#c41010;
+    font-weight:bold;
+    font-family: Poppins;
+    font-size:1.5em;
+    position:relative;
+    top:30px;
+    box-shadow: 0px 0px 5px black;
+    animation: fadein 2s;
+  }
+
+  .buttonprice {
+    background-color:#c41010;
+    border-radius:18px;
+    padding:10px;
+    color:#c41010;
+    font-weight:bold;
+    font-family: Poppins;
+    font-size:1.5em;
+    position:relative;
+    top:30px;
+    box-shadow: 0px 0px 5px black;
+    animation: fadein 2s;
+  }
+
+  .buttonclass {
+    background-color:#c41010;
+    border-radius:18px;
+    padding:10px;
+    color:#c41010;
     font-weight:bold;
     font-family: Poppins;
     font-size:1.5em;
